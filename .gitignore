@@ -1,0 +1,11 @@
+# Local PSPSDK toolchain & compiled build outputs
+.toolchain/
+build/
+dist/
+*.zip
+EBOOT.PBP
+*.o
+*.elf
+*.prx
+PARAM.SFO
+.DS_Store
